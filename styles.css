@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.sky {
+  position: relative;
+  background-image: linear-gradient( #F3BADB, #F6D19C);
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+}
+
+.sky img {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+#cloud-one {
+  width: 20%;
+  bottom: 40%;
+  margin-left: 70%;
+}
+
+#cloud-two {
+  width: 25%;
+  bottom: 80%;
+  margin-left: 60%;
+}
+
+#cloud-three {
+  width: 30%;
+  bottom: 60%;
+  margin-right: 80%;
+}
+
+#cloud-four {
+  width: 24%;
+  bottom: 70%;
+  margin-right: 40%;
+}
+
+#cloud-five {
+  width: 23%;
+  bottom: 60%;
+  margin-left: 40%;
+}
+
+#javascript {
+  width: 5%;
+  bottom: 30%;
+  margin-right: 55%;
+}
+
+#react {
+  width: 5%;
+  bottom: 30%;
+  margin-right: 43%;
+}
+
+#graphql {
+  width: 5%;
+  bottom: 30%;
+  margin-right: 31%;
+}
+
+#air-balloon {
+  width: 10%;
+  bottom: 10%;
+}
+
+.about-me {
+  height: 600px;
+  background-color: #69D31D;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+}
+
+
+
+
