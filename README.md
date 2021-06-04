@@ -16,6 +16,6 @@ ___
 
 ⭐ Sign up for weekly coding tips from my newsletter partnership: https://bit.ly/JS-tips
 
-You can also find me on:
-Twitter: https://twitter.com/ania_kubow
-Instagram: https://instagram.com/aniakubow
+### You can also find me on:
+* Twitter: https://twitter.com/ania_kubow
+* Instagram: https://instagram.com/aniakubow
