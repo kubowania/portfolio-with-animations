@@ -1,5 +1,4 @@
-# portfolio-with-animations
-A Portfolio with Animations in JavaScript
+# A Portfolio with Animations in JavaScript
 
 In this video I show you how to build a Portfolio with Animations and deploy it! To get 10% off on Hostinger packages use code ANIAKUBOW on this link here: https://www.hostinger.com/aniakubow
 
