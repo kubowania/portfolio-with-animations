@@ -5,7 +5,7 @@ In this video I show you how to build a Portfolio with Animations and deploy it!
 
 At the end we deploy the site to a .com website so you can share it with your friends. Hostinger have kindly given a 10% discount to sign up to anyone who watches this video with packages starting from 99p a month. 
 
-Watch the full video tutorial (here)[https://www.youtube.com/watch?v=q-hAbzrNzi0]
+Watch the full video tutorial [here](https://www.youtube.com/watch?v=q-hAbzrNzi0)
 
 ___
 ⭐ In most videos I use Tabnine as my A.I autocompletion tool. You can download it for free here: http://bit.ly/tabnine-top-tool
