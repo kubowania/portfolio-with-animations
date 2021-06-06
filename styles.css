@@ -6,6 +6,7 @@ body {
 }
 
 .sky {
+  overflow-x: hidden;
   position: relative;
   background-image: linear-gradient( #F3BADB, #F6D19C);
   width: 100%;
@@ -23,49 +24,50 @@ body {
 #cloud-one {
   width: 20%;
   bottom: 40%;
-  margin-left: 70%;
+  left: 75%;
 }
 
 #cloud-two {
   width: 25%;
   bottom: 80%;
-  margin-left: 60%;
+  left: 70%;
 }
 
 #cloud-three {
   width: 30%;
   bottom: 60%;
-  margin-right: 80%;
+  left: 0%;
 }
 
 #cloud-four {
   width: 24%;
   bottom: 70%;
   margin-right: 40%;
+  left: 20%;
 }
 
 #cloud-five {
   width: 23%;
   bottom: 60%;
-  margin-left: 40%;
+  left: 60%;
 }
 
 #javascript {
   width: 5%;
   bottom: 30%;
-  margin-right: 55%;
+  left: 20%;
 }
 
 #react {
   width: 5%;
   bottom: 30%;
-  margin-right: 43%;
+  left: 26%;
 }
 
 #graphql {
   width: 5%;
   bottom: 30%;
-  margin-right: 31%;
+  left: 32%;
 }
 
 #air-balloon {
@@ -86,7 +88,6 @@ h1 {
   font-family: 'Lobster', cursive;
   font-size: 60px;
 }
-
 
 
 
